@@ -1,45 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="465" viewBox="0 0 900 465">
   <defs>
     <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#565A55"></stop>
-      <stop offset="48%" stop-color="#F5F7E9"></stop>
-      <stop offset="100%" stop-color="#848484"></stop>
+      <stop offset="0%" stop-color="#24344a"></stop>
+      <stop offset="48%" stop-color="#f5f7fa"></stop>
+      <stop offset="100%" stop-color="#8ea2bf"></stop>
     </linearGradient>
   </defs>
 
   <text x="450" y="55" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="url(#g)">
-    ͙͘͡★ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 𑣲𝄞
+    (★) 𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏 ♫
   </text>
 
-  <text x="450" y="125" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#565A55">
-    𑣲⋆ 𝙄'𝙢 𝙖𝙣 𝙞𝙣𝙩𝙧𝙤𝙫𝙚𝙧𝙩 𝙨𝙤 𝙄 𝙥𝙧𝙚𝙛𝙚𝙧 𝙬𝙝𝙞𝙨𝙥𝙚𝙧𝙞𝙣𝙜 𝙢𝙤𝙧𝙚. 𝙏-𝙏
+  <text x="450" y="125" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#24344a">
+    ✎♫ 𝒀𝒐𝒖 𝒈𝒖𝒚𝒔 𝒄𝒂𝒏 𝒄𝒂𝒍𝒍 𝒎𝒆 4𝒓𝒕, 𝒂𝒓𝒕 𝒐𝒓 𝒎𝒂𝒚𝒃𝒆 𝒎4𝒓𝒕
   </text>
 
-  <text x="450" y="165" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#F5F7E9">
-    𑣲⋆ 𝙄 𝙢𝙤𝙨𝙩𝙡𝙮 𝙨𝙩𝙖𝙮 𝙞𝙣 𝙨𝙖𝙛𝙚 𝙑𝙞𝙚𝙩, 𝙨𝙤𝙢𝙚𝙩𝙞𝙢𝙚𝙨 𝙨𝙖𝙛𝙚 𝙨𝙚𝙧𝙫𝙚𝙧.
+  <text x="450" y="165" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#4a6484">
+    ✎♫ 𝑰𝒎 𝒒𝒖𝒊𝒕𝒆 𝒍𝒂𝒛𝒚 𝒕𝒐 𝒊𝒏𝒕𝒆𝒓𝒂𝒄𝒕 𝒘𝒊𝒕𝒉 𝒆𝒗𝒆𝒓𝒚𝒐𝒏𝒆 𝒆𝒙𝒄𝒆𝒑𝒕 𝒎𝒚 𝒄𝒍𝒐𝒔𝒆 𝒇𝒓𝒊𝒆𝒏𝒅𝒔.
   </text>
 
-  <text x="450" y="205" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#565A55">
-    𑣲⋆ 𝙄'𝙢 𝙫𝙚𝙧𝙮 𝙦𝙪𝙞𝙚𝙩 𝙪𝙣𝙡𝙚𝙨𝙨 𝙪 𝙨𝙩𝙖𝙧𝙩 𝙩𝙝𝙚 𝙘𝙤𝙣𝙫𝙤 𝙛𝙞𝙧𝙨𝙩.
+  <text x="450" y="205" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#d3dde7">
+    ✎♫ 𝑼𝒔𝒖𝒂𝒍𝒍𝒚 𝒔𝒕𝒂𝒚 𝒐𝒏 𝒔𝒂𝒇𝒆 𝑽𝒊𝒆𝒕𝒏𝒂𝒎𝒆𝒔𝒆 𝒔𝒆𝒓𝒗𝒆𝒓, 𝒊𝒍𝒍 𝒋𝒐𝒊𝒏 𝑺𝒂𝒇𝒆 𝒔𝒆𝒓𝒗𝒆𝒓 𝒊𝒇 𝒊𝒅 𝒍𝒊𝒌𝒆 𝒕𝒐.
   </text>
 
-  <text x="450" y="245" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#F5F7E9">
-    𑣲⋆ 𝙁𝙚𝙚𝙡 𝙛𝙧𝙚𝙚 𝙩𝙤 𝙘 + 𝙝 𝙥𝙡𝙨 .ᐟ.ᐟ 𝙄 𝙬𝙤𝙣'𝙩 𝙗𝙞𝙩𝙚 𝙩𝙧𝙪𝙨𝙩.
+  <text x="450" y="245" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#f5f7fa">
+    ✎♫ 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒄+𝒉 𝒂𝒏𝒅 𝒊𝒏𝒕, 𝒅𝒐𝒏𝒕 𝒃𝒆 𝒔𝒉𝒚 ^_^!!
   </text>
 
   <text x="450" y="295" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="url(#g)">
-    ₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚
+    ✦ ────── ε★з ────── ✦
   </text>
 
-  <text x="450" y="350" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#565A55">
-    𑣲⋆ 𝘿𝙤 𝙉𝙊𝙏 𝙘𝙤𝙥𝙮 𝙣𝙤𝙧 𝙩𝙖𝙠𝙚 𝙞𝙣𝙨𝙥𝙤 𝙬/𝙤 𝙥𝙚𝙧𝙢𝙞𝙨𝙨𝙞𝙤𝙣 .ᐟ.ᐟ
+  <text x="450" y="350" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#d3dde7">
+    ✎♫ 𝑷𝒍𝒛𝒛 𝒅𝒐 𝑵𝑶𝑻 𝒃𝒆 𝒇𝒓𝒊𝒆𝒏𝒅𝒔 𝒊𝒇 𝒘𝒆 𝒉𝒂𝒗𝒆𝒏𝒕 𝒎𝒆𝒆𝒕/ 𝒊𝒏𝒕𝒆𝒓𝒂𝒄𝒕 𝒕𝒐𝒈𝒆𝒕𝒉𝒆𝒓 𝒐𝒏𝒄𝒆 '^𝒗^
   </text>
 
-  <text x="450" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#F5F7E9">
-    𑣲⋆ 𝘼𝙡𝙩𝙝𝙤𝙪𝙜𝙝 𝙄'𝙢 19, 𝙄'𝙢 𝙫𝙚𝙧𝙮 𝙛𝙧𝙞𝙚𝙣𝙙𝙡𝙮 𝙩𝙤 𝙩𝙖𝙡𝙠 𝙩𝙤, 𝙣𝙤 𝙬𝙤𝙧𝙧𝙞𝙚𝙨 (˶˃ ᵕ ˂˶)
+  <text x="450" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#F5F7fa">
+    ✎♫ 𝑰𝒎 𝒏𝒐𝒕 𝒇𝒓𝒊𝒆𝒏𝒅𝒍𝒚 𝒘𝒊𝒕𝒉 𝒔𝒕𝒓𝒂𝒏𝒈𝒆𝒓𝒔, 𝒄𝒐𝒑𝒚𝒄𝒂𝒕𝒔 𝒂𝒏𝒅 𝑷𝒐𝒏𝒚 𝑻𝒐𝒘𝒏'𝒔 𝒑𝒉𝒐𝒕𝒐𝒈𝒓𝒂𝒑𝒉𝒆𝒓 𝒐𝒏 𝑷𝒊𝒏.
   </text>
 
-  <text x="450" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#565A55">
-    𑣲⋆ 𝙃𝙖𝙫𝙚 𝙖𝙣𝙮 𝙦𝙪𝙚𝙨𝙩𝙞𝙤𝙣/𝙧𝙚𝙦𝙪𝙚𝙨𝙩 .ᐣ 𝙑𝙞𝙨𝙞𝙩 𝙢𝙮 𝘼𝙩𝙖𝙗𝙤𝙤𝙠 .ᐟ.ᐟ
+  <text x="450" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#4a6484">
+    ✎♫ 𝑯𝒆𝒚𝒚!! 𝑺𝒊𝒈𝒏 𝒎𝒊 𝒂𝒕𝒂 𝒃𝒐𝒐𝒌 𝒔𝒐 𝒚𝒐𝒖'𝒍𝒍 𝒈𝒆𝒕 𝒂 𝒇𝒓𝒆𝒆 𝒄𝒐𝒐𝒌𝒊𝒊! (>^ . ^")
   </text>
 </svg>
