@@ -61,6 +61,6 @@ My gang!!! I love you all so much :(
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=ADelightfulNewDeath&color=848484&style=for-the-badge&label=INSTRUMENTS)
+![](https://komarev.com/ghpvc/?username=Quadratz-bigfan&color=848484&style=for-the-badge&label=miss)
 
 </div>
