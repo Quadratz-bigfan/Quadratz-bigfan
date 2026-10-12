@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://media.tenor.com/_gO4axurVs8AAAAj/nullscape-mart-water-imp.gif" width="450"/>
+<img src="https://media.tenor.com/_gO4axurVs8AAAAj/nullscape-mart-water-imp.gif" width="300"/>
 
 <br><br>
 
@@ -37,7 +37,7 @@
 
 <br>
 
-<img src="https://i.postimg.cc/65xcct7Q/IMG_3869.png"/><img src="https://i.postimg.cc/65xcct7Q/IMG_3869.png"/>
+<img src="https://www.pinterest.com/pin/1088815647439706196/sent/?invite_code=c548b2f8eafe4f2597e3c5ef83c262c7&sender=1130614818861568581&sfo=1"/><img src="https://www.pinterest.com/pin/1088815647439706196/sent/?invite_code=c548b2f8eafe4f2597e3c5ef83c262c7&sender=1130614818861568581&sfo=1"/>
 
 <br>
 
@@ -48,7 +48,7 @@
   
   <td width="650" align="center">
     <p align="center">
-      <img src="./fandoms.svg" width="900">
+      <img src="./otherInform.svg" width="900">
     </p>
   </td>
 </table>
