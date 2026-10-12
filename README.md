@@ -30,7 +30,7 @@
     </p>
   </td>
   <td width="280" align="center">
-    <img src="https://pbs.twimg.com/media/HLyOD4pasAAar14?format=webp&name=large"/>
+    <img src="https://static.wikitide.net/projectrusherwiki/thumb/0/09/DeepSeaWorld.jpg/200px-DeepSeaWorld.jpg"/>
   </td>
 
 </table>
@@ -43,7 +43,7 @@
 
 <table>
   <td width="280" align="center">
-    <img src="https://static.wikitide.net/nullscapewiki/4/47/Mart.png"/>
+    <img src="https://static.wikitide.net/nullscapewiki/thumb/3/33/MartSlide.png/600px-MartSlide.png"/>
   </td>
   
   <td width="650" align="center">
