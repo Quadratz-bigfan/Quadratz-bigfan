@@ -55,12 +55,6 @@
 
 <br><br>
 
-<img src="https://media.discordapp.net/attachments/1198498485834612909/1552920516082409572/Screenshot_2026-09-20_111923.png?ex=6ab75d6e&is=6ab60bee&hm=7ebfdc00f428f175ea2aadf6b960688ca3a605c6eeaa8317cbc53c4eff916b3a&=&format=webp&quality=lossless"/>
+<img src="https://pbs.twimg.com/media/G_7CLS2boAEHE0F?format=webp&name=small"/>
 
-My gang!!! I love you all so much :(
-
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=Quadratz-bigfan&color=848484&style=for-the-badge&label=miss)
-
-</div>
+$\color{#ffffff}{\text{This assist name Rayvelline "Rae". Gauge:}}$ $\color{#a31d10}{\text{GLUIT}}$ 
