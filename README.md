@@ -37,7 +37,7 @@
 
 <br>
 
-<img src="https://www.pinterest.com/pin/1088815647439706196/sent/?invite_code=c548b2f8eafe4f2597e3c5ef83c262c7&sender=1130614818861568581&sfo=1"/><img src="https://www.pinterest.com/pin/1088815647439706196/sent/?invite_code=c548b2f8eafe4f2597e3c5ef83c262c7&sender=1130614818861568581&sfo=1"/>
+<img src="https://pin.it/6zrAtwogc"/><img src="https://pin.it/6zrAtwogc"/>
 
 <br>
 
