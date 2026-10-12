@@ -1,1 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="465" viewBox="0 0 900 465">
 
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#565A55"></stop>
+      <stop offset="48%" stop-color="#F5F7E9"></stop>
+      <stop offset="100%" stop-color="#848484"></stop>
+    </linearGradient>
+  </defs>
+
+  <text x="450" y="55" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="url(#g)">𓏲𝄢 𝙁𝙖𝙣𝙙𝙤𝙢𝙨 𑣲𝄞</text>
+
+  <text x="450" y="125" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#565A55">𑣲⋆ 𝙁𝙤𝙧 𝙍𝙊𝘽𝙇𝙊𝙓 :</text>
+
+  <text x="450" y="165" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#F5F7E9">𑣲⋆ 𝙉𝙪𝙡𝙡𝙨𝙘𝙖𝙥𝙚, 𝙉𝙤 𝙈𝙤𝙧𝙚 𝙏𝙞𝙢𝙚, 𝙏𝙍𝙊𝙍, 𝘽𝙖𝙙 𝙏𝙝𝙞𝙣𝙜𝙨, 𝙈.𝙀.𝙂, 𝙍𝙚𝙜𝙧𝙚𝙩𝙚𝙫𝙖𝙩𝙤𝙧, 𝘽𝙡𝙤𝙘𝙠 𝙏𝙖𝙡𝙚𝙨,...</text>
+
+  <text x="450" y="205" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#565A55">𑣲⋆ 𝙃𝙐𝙂𝙀 𝙎𝙥𝙤𝙠𝙚𝙄𝙨𝙃𝙚𝙧𝙚 𝙛𝙖𝙣, 𝙄 𝙖𝙡𝙨𝙤 𝙡𝙤𝙫𝙚 𝘼𝙍𝙂𝙨 𝙣 𝙎𝙈𝙋𝙨.</text>
+
+  <text x="450" y="245" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#F5F7E9">𑣲⋆ 𝙉𝙤𝙩 𝙧𝙚𝙖𝙡𝙡𝙮 𝙖 𝙛𝙖𝙣 𝙤𝙛 𝙖𝙣𝙞𝙢𝙚, 𝙨𝙤𝙧𝙧𝙮.</text>
+
+  <text x="450" y="295" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="url(#g)">₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚</text>
+
+  <text x="450" y="350" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#565A55">𑣲⋆ 𝙄'𝙢 𝙢𝙤𝙧𝙚 𝙩𝙖𝙡𝙠𝙖𝙩𝙞𝙫𝙚 𝙬𝙝𝙚𝙣 𝙞𝙩 𝙘𝙤𝙢𝙚𝙨 𝙩𝙤 𝙛𝙖𝙫 𝙜𝙖𝙢𝙚𝙨.</text>
+
+  <text x="450" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#F5F7E9">𑣲⋆ 𝙄 𝙖𝙡𝙨𝙤 𝙥𝙡𝙖𝙮 𝙎𝙠𝙮 𝘾𝙤𝙩𝙡, 𝙇𝙚𝙖𝙜𝙪𝙚 𝙣 𝙊𝙨𝙪 .ᐟ.ᐟ</text>
+
+  <text x="450" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#565A55">𑣲⋆ 𝙏𝙮 𝙛𝙤𝙧 𝙧𝙚𝙖𝙙𝙞𝙣𝙜. ♡</text>
+
+</svg>
