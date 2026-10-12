@@ -1,10 +1,7 @@
 <div align="center">
 
-<p align="center">
-  <a href="https://open.spotify.com/track/64SL9JlYfvhsmjdOkiWjQG?si=7d0071b5b3304682">
-    <img src="https://img.shields.io/badge/%F0%9D%93%A6%F0%9D%93%9E%F0%9D%93%9D'%F0%9D%93%A3_%F0%9D%93%A8%F0%9D%93%9E%F0%9D%93%A4_%F0%9D%93%97%F0%9D%93%94%F0%9D%93%90%F0%9D%93%A1_%F0%9D%93%9C%F0%9D%93%A8_%F0%9D%93%A2%F0%9D%93%A8%F0%9D%93%9C%F0%9D%93%9F%F0%9D%93%97%F0%9D%93%9E%F0%9D%93%9D%F0%9D%93%A8%3F-Key_After_Key?style=for-the-badge&logo=spotify&logoColor=white&logoSize=auto&color=grey&cacheSeconds=3600"/>
-  </a>
-</p>
+![spotify-github-profile]([https://open.spotify.com/user/31yrs3nvbvcejfdr5snf55i2vjma/api/view?uid=31swni6knt4r5rizrnkx2okov4ti&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=ffe5ee&bar_color_cover=false)
+
 
 <br>
 
@@ -17,7 +14,7 @@
 <br><br>
 
 
-<a href="https://imperialenigma.atabook.org/">
+<a href="https://4rt.atabook.org/">
   <img src="https://img.shields.io/badge/%EA%95%A4_ATABOOK-Kazu?style=for-the-badge&labelColor=white&color=white">
 </a>
 
@@ -37,7 +34,7 @@
 
 <br>
 
-<img src="https://pin.it/6zrAtwogc"/><img src="https://pin.it/6zrAtwogc"/>
+<img src="https://camo.githubusercontent.com/e34e64bd477605db73c878ece430baefba4549ba6b92068671ab99771fd8f8ed/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f64656565366134393565343337373037656539376663656531633230373565652f366561626538636435336133653230622d30362f733132383078313932302f393262393336663731306635363536326464383338653439363963316131393534333165313165302e67696676"/>
 
 <br>
 
@@ -55,7 +52,7 @@
 
 <br>
 
-<img src="https://files.catbox.moe/7aueoq.webp" width="600"/>
+<img src="https://camo.githubusercontent.com/e34e64bd477605db73c878ece430baefba4549ba6b92068671ab99771fd8f8ed/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f64656565366134393565343337373037656539376663656531633230373565652f366561626538636435336133653230622d30362f733132383078313932302f393262393336663731306635363536326464383338653439363963316131393534333165313165302e67696676" width="600"/>
 
 <br><br>
 
