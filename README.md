@@ -63,4 +63,4 @@ $\color{#ffffff}{\text{To get this assist, you have to beat Iris (playlist 1A) a
 
 $\color{#ffffff}{\text{as any character then youll get kicked by its moderator with the message: "." . Rejoin again, pick any dificulty u want, }}$
 
-$\color{#ffffff}{\text{open the door and beat INTENTION to get Rae! }}$
+$\color{#ffffff}{\text{open the door and beat INTENTIONS to get Rae! }}$
