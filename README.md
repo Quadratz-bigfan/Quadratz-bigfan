@@ -58,3 +58,9 @@
 <img src="https://pbs.twimg.com/media/G_7CLS2boAEHE0F?format=webp&name=small"/>
 
 $\color{#ffffff}{\text{This assist name Rayvelline "Rae". Gauge:}}$ $\color{#a31d10}{\text{GLUIT}}$ 
+
+$\color{#ffffff}{\text{To get this assist, you have to beat Iris (playlist 1A) as Iris, Surreal (playlist 1B) as Lester and Ziera (lots of Ziera songs after playing those 2 songs)}}$
+
+$\color{#ffffff}{\text{as any character then youll get kicked by its moderator with the message: "." . Rejoin again, pick any dificulty u want, }}$
+
+$\color{#ffffff}{\text{open to the door and beat Intention to get Rae! }}$
