@@ -44,7 +44,7 @@
   
   <td width="650" align="center">
     <p align="center">
-      <img src="./otherInform.svg" width="900">
+      <img src="./otherInform1.svg" width="900">
     </p>
   </td>
 </table>
