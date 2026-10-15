@@ -22,7 +22,7 @@
 <table>
   <td width="650" align="center">
     <p align="center">
-      <img src="./introduction3.svg" width="900">
+      <img src="./introduction4.svg" width="900">
     </p>
   </td>
   <td width="280" align="center">
@@ -44,7 +44,7 @@
   
   <td width="650" align="center">
     <p align="center">
-      <img src="./otherInform1.svg" width="900">
+      <img src="./otherInform2.svg" width="900">
     </p>
   </td>
 </table>
